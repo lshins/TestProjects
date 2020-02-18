@@ -1,6 +1,6 @@
 #include <iostream>
 #include "ClockType.h"
-
+ error777789
 using namespace std;
 
 void clockType::setTime(int years, int months, int days, int hours, int minutes, int seconds)
